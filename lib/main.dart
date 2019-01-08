@@ -1,6 +1,6 @@
-import 'package:fire_base_raja/fireBase/login_page.dart';
-import 'package:fire_base_raja/fireBase/sign_up_page.dart';
-import 'package:fire_base_raja/fireBase/home_page_aut.dart';
+import 'package:fire_base_raja/lessons_23_authentication/fireBase/login_page.dart';
+import 'package:fire_base_raja/lessons_23_authentication/fireBase/sign_up_page.dart';
+import 'package:fire_base_raja/lessons_23_authentication/fireBase/home_page_aut.dart';
 
 import 'package:flutter/material.dart';
 

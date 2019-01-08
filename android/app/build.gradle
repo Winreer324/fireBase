@@ -62,9 +62,9 @@ dependencies {
 
     implementation 'com.google.firebase:firebase-core:16.0.1'
     implementation 'com.google.firebase:firebase-auth:16.1.0'
-    implementation 'com.google.android.gms:play-services-auth:16.0.1'
+    implementation 'com.google.android.gms:play-lessons_23_authentication.services-auth:16.0.1'
     implementation 'com.android.support:multidex:1.0.3'
 
 }
-// fireBase
-apply plugin: 'com.google.gms.google-services'
+// lessons_23_authentication.fireBase
+apply plugin: 'com.google.gms.google-lessons_23_authentication.services'
